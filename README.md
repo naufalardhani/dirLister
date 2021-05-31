@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="dirLister.png" width="700" alt="accessibility text">
+  <img src="dirLister.png" width="470" alt="accessibility text">
 </p>
 
 <a href="https://asciinema.org/a/415084"><img src="https://asciinema.org/a/415084.png" width="836"/></a>
