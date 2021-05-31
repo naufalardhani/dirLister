@@ -2,7 +2,7 @@
 [![Build](https://img.shields.io/badge/Supported_OS-Mojave_MacOS-orange.svg)]()
 [![undefined](https://img.shields.io/github/v/release/naufalardhani/dirLister.svg)](https://github.com/naufalardhani/dirLister/releases/latest)
 <p align="center">
-  <img src='dirLister-banner.png' width='900' height='200'>
+  <img src='dirLister-banner.png' width='600' height='100'>
  </p>
 # dirLister
 
